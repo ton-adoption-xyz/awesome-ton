@@ -50,6 +50,7 @@ Contributions welcome — open a PR with an entry following the format below.
 - [Tolk](https://docs.ton.org/v3/documentation/smart-contracts/tolk) — new high-level contract language.
 - [Tonviewer](https://tonviewer.com) · [Tonscan](https://tonscan.org) — explorers.
 - [TONAPI](https://tonapi.io) · [Toncenter](https://toncenter.com) — public API gateways.
+- [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 ## Learning
 
