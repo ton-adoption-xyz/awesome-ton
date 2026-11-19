@@ -10,6 +10,7 @@ Contributions welcome — open a PR with an entry following the format below.
 
 ### Non-custodial
 
+- [Ownbit](https://ownbit.io/en/ton-wallet/) — Mobile self-custody TON wallet with QR offline signing; paid plans, 7-day trial.
 - [Tonkeeper](https://tonkeeper.com) — flagship mobile wallet, Ledger support, TON Connect 2.x.
 - [MyTonWallet](https://mytonwallet.io) — browser-extension + mobile wallet with the most features per byte.
 - [Tonhub](https://tonhub.com) — early mobile wallet, plain-and-fast.
